@@ -1,0 +1,1 @@
+For joke-teller to work, you need to add the API key to the script.js file instead of YOUR_API_KEY_HERE. To do this, you need to register at the link http://www.voicerss.org/ and generate an API key in your personal profile.
